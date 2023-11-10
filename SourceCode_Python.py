@@ -6,7 +6,6 @@
 
 Shows how to use the AWS SDK for Python (Boto3) with Amazon Polly to synthesize
 speech and manage custom lexicons.
-"""
 
 import io
 import json
