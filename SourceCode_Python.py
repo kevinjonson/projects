@@ -1,8 +1,8 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: Apache-2.0
 
-"""
-Purpose
+
+
 
 Shows how to use the AWS SDK for Python (Boto3) with Amazon Polly to synthesize
 speech and manage custom lexicons.
