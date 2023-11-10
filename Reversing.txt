@@ -1,4 +1,4 @@
-C program to demonstrate reversing
+///  C program to demonstrate reversing
 f floyd's triangle
 #include <stdio.h>
 void Reverse_Floyd(int row)
