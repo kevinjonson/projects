@@ -1,5 +1,5 @@
 // C program to demonstrate reversing
-// of floyd's triangle
+of floyd's triangle
 #include <stdio.h>
 void Reverse_Floyd(int row)
 {
